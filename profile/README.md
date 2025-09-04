@@ -6,6 +6,8 @@
 
 ### 👋🏻 Contributors
 > 디지털 하나로 6기 금융서비스개발 YOLDEN 팀
+
+> `개발 기간` : 2025.08.13 ~ 2025.09.11
 <table>
   <tr>
     <td align="center">
@@ -34,3 +36,15 @@
     </td>
   </tr>
 </table>
+
+### 👾 Tech Stack
+
+| Category   | Tech |
+|------------|------|
+| **🎨 Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/> <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/> |
+| **⚙️ Backend**  | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> |
+| **🗄️ Database** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| **☁️ Infra & Tools** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> |
+
+
+
