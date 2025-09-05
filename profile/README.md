@@ -55,5 +55,5 @@
 - [image]
 
 ### 🍂 ERD
-- [image]
+<img width="583" height="577" alt="스크린샷 2025-09-05 오후 4 12 19" src="https://github.com/user-attachments/assets/dd1209e0-79f4-442f-a76b-6afd396b9082" />
 
