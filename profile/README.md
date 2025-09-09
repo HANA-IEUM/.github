@@ -58,5 +58,4 @@
 <img width="1920" height="1080" alt="HANA-IEUM V2 (1)" src="https://github.com/user-attachments/assets/9e8b9397-16e8-4b7f-bab6-b818bb4e3bda" />
 
 ### 🍂 ERD
-<img width="583" height="577" alt="스크린샷 2025-09-05 오후 4 12 19" src="https://github.com/user-attachments/assets/dd1209e0-79f4-442f-a76b-6afd396b9082" />
-
+<img width="1593" height="1473" alt="hana-ieum-erd" src="https://github.com/user-attachments/assets/5b5c1801-b464-421b-ac1d-1eb87ec65dfc" />
