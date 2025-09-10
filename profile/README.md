@@ -94,7 +94,7 @@
     <img width="1592" height="824" alt="Container (13)" src="https://github.com/user-attachments/assets/a1da61e2-54d0-4c55-b4d2-054212188537" />
 
 ### 💌 User Flow Chart
-<img width="965" height="562" alt="스크린샷 2025-09-10 오전 9 31 28" src="https://github.com/user-attachments/assets/f670f4e9-ba1d-430b-8c66-9ae99a889168" />
+<img width="1448" height="808" alt="Group 138" src="https://github.com/user-attachments/assets/c29e5603-0fa3-4cf0-87f0-2deaae2dff77" />
 
 
 
