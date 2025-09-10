@@ -41,9 +41,55 @@
 </table>
 
 ### 📍 Features
-- A 기능
-- B 기능
-- C 기능
+- **온보딩 : 서비스에 대한 정보를 간략하게 확인할 수 있어요.**
+
+  <img width="1592" height="824" alt="Container (1)" src="https://github.com/user-attachments/assets/74f71cae-d077-4e97-ba34-9f83f2f8e540" />
+
+- **회원가입 : 가입에 필요한 정보를 입력하고 서비스에 가입해요.**
+  
+  <img width="1592" height="824" alt="Container (2)" src="https://github.com/user-attachments/assets/dbe973ea-dbdf-4e97-8a74-be59ada6d7e9" />
+
+  <img width="1592" height="824" alt="Container (3)" src="https://github.com/user-attachments/assets/c6733cf2-99fc-4fab-934d-3fd0397c4447" />
+
+- **로그인 : 전화번호와 비밀번호를 입력해 서비스에 로그인해요.**
+
+  <img width="1592" height="824" alt="Container (4)" src="https://github.com/user-attachments/assets/726e2a3a-e9c6-4433-bc07-b59d28a1baec" />
+
+- **가족 그룹 참여 : 가족의 초대코드를 받은 경우, 코드를 통해 가족 그룹에 가입할 수 있어요. 아직 받은 초대코드가 없다면 가족 그룹을 직접 생성해요.**
+
+  <img width="1592" height="824" alt="Container (5)" src="https://github.com/user-attachments/assets/81cc38cb-9e37-4ca8-8b64-d68315b96130" />
+
+- **계좌 연결 : 서비스에 연결할 하나은행 입출금 계좌를 설정해요. 시니어의 경우, 연금 수령 계좌를 등록하면 머니박스 1% 우대금리를 적용받을 수 있어요.**
+
+  <img width="1592" height="824" alt="Container" src="https://github.com/user-attachments/assets/139660bc-405e-4b01-8f5f-15af103849b6" />
+
+- **버킷리스트 생성 : 이루고 싶은 버킷리스트를 생성해요. 카테고리와 함께할 가족 구성원 등 정보를 입력하고, 목표하는 금액을 정해요. 목표금액을 설정하기 어렵다면, AI에게 제안받은 금액을 적용할 수 있어요. 버킷리스트에 대한 정보를 입력한 후 달성에 필요한 자금을 모을 머니박스를 개설해요. 기간에 따라 달라지는 금리를 확인하고, 가입 시에 입력했던 월 생활비와 비교해 적절한 금액인지 체크할 수 있어요.**
+
+  <img width="1592" height="824" alt="Container (6)" src="https://github.com/user-attachments/assets/051e9ffe-2b84-4546-ae0d-3a4e7f55f283" />
+
+  <img width="1592" height="824" alt="Container (7)" src="https://github.com/user-attachments/assets/dbf79ea7-cda6-4018-bbc6-629a32cbddba" />
+
+- **가족 : 자신이 속한 가족의 구성원을 확인할 수 있으며, 가족 구성원이 생성한 버킷리스트를 볼 수 있는 공간이에요.**
+
+  <img width="1592" height="824" alt="Container (8)" src="https://github.com/user-attachments/assets/c9fe511b-bdb3-4c05-af4f-11759c10a145" />
+
+- **가족의 버킷리스트 응원 및 후원 : 가족의 버킷리스트를 확인하고, 편지를 남겨 응원할 수 있어요. 마음을 담은 후원 또한 가능해요.**
+
+  <img width="1592" height="824" alt="Container (9)" src="https://github.com/user-attachments/assets/79a1d43f-4fc0-4e39-a469-e3b76fca7987" />
+
+  <img width="2003" height="824" alt="Container (10)" src="https://github.com/user-attachments/assets/123f668a-1113-41ed-b935-c7b22214d129" />
+
+- **지갑 : 서비스에 연결한 주계좌와 개설한 머니박스에 대한 정보를 확인할 수 있어요. 주계좌와 머니박스 거래내역을 통해 자금을 효율적으로 관리해요.**
+
+  <img width="1592" height="824" alt="Container (11)" src="https://github.com/user-attachments/assets/a431996c-b44c-49ef-8e5f-4abdc4315949" />
+
+- **공유 앨범 : 버킷리스트를 달성하는 과정이나 달성을 기념하는 사진을 올려 가족과 공유해요.**
+
+  <img width="1592" height="824" alt="Container (12)" src="https://github.com/user-attachments/assets/94ae15ca-4fed-460c-8046-513ce8d26658" />
+
+- **마이 페이지 : 서비스에 등록된 기본 정보와 월 생활비를 수정하고, 로그아웃할 수 있는 화면이에요. 버킷리스트를 달성해 받은 제휴 쿠폰 또한 여기서 확인이 가능해요.**
+
+    <img width="1592" height="824" alt="Container (13)" src="https://github.com/user-attachments/assets/a1da61e2-54d0-4c55-b4d2-054212188537" />
 
 ### 💌 User Flow Chart
 <img width="965" height="562" alt="스크린샷 2025-09-10 오전 9 31 28" src="https://github.com/user-attachments/assets/f670f4e9-ba1d-430b-8c66-9ae99a889168" />
