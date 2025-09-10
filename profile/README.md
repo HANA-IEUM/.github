@@ -46,7 +46,8 @@
 - C 기능
 
 ### 💌 User Flow Chart
-<img width="1920" height="1080" alt="스크린샷 2025-09-10 오전 8 58 07" src="https://github.com/user-attachments/assets/a2ea4701-07a8-4d62-aa7e-d5a29bbbf5ea" />
+<img width="965" height="562" alt="스크린샷 2025-09-10 오전 9 31 28" src="https://github.com/user-attachments/assets/f670f4e9-ba1d-430b-8c66-9ae99a889168" />
+
 
 
 ### 👾 Tech Stack
